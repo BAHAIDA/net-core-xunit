@@ -1,0 +1,14 @@
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb

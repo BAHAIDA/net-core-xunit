@@ -1,0 +1,14 @@
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebApixUnit.deps.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebApixUnit.runtimeconfig.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebApixUnit.runtimeconfig.dev.json
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebApixUnit.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebAPI.dll
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\bin\Debug\netcoreapp2.1\WebAPI.pdb
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\obj\Debug\netcoreapp2.1\WebApixUnit.csprojAssemblyReference.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\obj\Debug\netcoreapp2.1\WebApixUnit.csproj.CoreCompileInputs.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\obj\Debug\netcoreapp2.1\WebApixUnit.AssemblyInfoInputs.cache
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\obj\Debug\netcoreapp2.1\WebApixUnit.AssemblyInfo.cs
+C:\Users\u957974\Source\Repos\NetCoreTesting\WebApixUnit\obj\Debug\netcoreapp2.1\WebApixUnit.csproj.CopyComplete
